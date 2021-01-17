@@ -1,6 +1,7 @@
 # ios-fscalendar-realm-memo
 
 [![hackmd-github-sync-badge](https://hackmd.io/E9_xs-smSDCYoXOtJNbEcw/badge)](https://hackmd.io/E9_xs-smSDCYoXOtJNbEcw)
+### English Readme [here](https://github.com/vincent-chang-rightfighter/ios-fscalendar-realm-memo/blob/main/README.EN.md)
 
 
 ## 如何使用使此專案
@@ -9,6 +10,7 @@
 ### 接著打開終端機 進入該目錄內 ( ios-fscalendar-realm-memo/calendar_final/ )
 ### 刪除 calendar_final.xcworkspace 
 ### 在當前終端機目錄輸入以下命令 ( cocoapods安裝第三方函示庫 )
+
 ```
 gem install cocoapods
 ```
@@ -16,7 +18,7 @@ gem install cocoapods
 ```
 pod install
 ```
-### 待安裝完第三方套件後
+### 待安裝完第三方函示庫後
 ### 就會產生 calendar_final.xcworkspace 
 ### 使用xcode開啟 calendar_final.xcworkspace 此專案
 
@@ -42,7 +44,7 @@ pod install
 ---
 
 ### 新增待辦事項介面
-### 可多選日期新增未截圖
+### 可多選日期新增 ( 未截圖 )
 
 <img src="https://github.com/vincent-chang-rightfighter/ios-fscalendar-realm-memo/raw/main/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-01-14%20at%2017.58.09.png" width="300" />
 
