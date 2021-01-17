@@ -5,10 +5,14 @@
 
 ## 如何使用使此專案
 
-### 首先把專案下載至系統內並解壓縮(任意位置)
-### 接著打開終端機 進入該目錄內 (ios-fscalendar-realm-memo/calendar_final/)
+### 首先把專案下載至系統內並解壓縮 ( 任意位置 )
+### 接著打開終端機 進入該目錄內 ( ios-fscalendar-realm-memo/calendar_final/ )
 ### 刪除 calendar_final.xcworkspace 
-### 在當前終端機目錄輸入以下命令(cocoapods安裝第三方套件)
+### 在當前終端機目錄輸入以下命令 ( cocoapods安裝第三方函示庫 )
+```
+gem install cocoapods
+```
+
 ```
 pod install
 ```
@@ -19,7 +23,7 @@ pod install
 
 ## 成果圖說明
 
-### 程式進入會顯示今日的代辦事項
+### 程式進入會顯示今日的待辦事項
 
 <img src="https://github.com/vincent-chang-rightfighter/ios-fscalendar-realm-memo/raw/main/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-01-14%20at%2017.52.38.png" width="300" />
 
@@ -31,20 +35,20 @@ pod install
 
 ---
 
-### 無代辦事項插入預設文字
+### 無待辦事項插入預設文字
 
 <img src="https://github.com/vincent-chang-rightfighter/ios-fscalendar-realm-memo/raw/main/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-01-14%20at%2017.57.18.png" width="300" />
 
 ---
 
-### 新增代辦事項介面
+### 新增待辦事項介面
 ### 可多選日期新增未截圖
 
 <img src="https://github.com/vincent-chang-rightfighter/ios-fscalendar-realm-memo/raw/main/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-01-14%20at%2017.58.09.png" width="300" />
 
 ---
 
-### 查看剛新增的代辦事項
+### 查看剛新增的待辦事項
 
 <img src="https://github.com/vincent-chang-rightfighter/ios-fscalendar-realm-memo/raw/main/screenshot/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-01-14%20at%2017.58.35.png" width="300" />
 
